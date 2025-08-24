@@ -25,7 +25,7 @@ warnings.filterwarnings('ignore')
 
 # Page configuration
 st.set_page_config(
-    page_title="Advanced Economic & Social Indicator Builder",
+    page_title="Advanced Economic & Social Indicator Builder — by Dr Merwan Roudane",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -3070,4 +3070,5 @@ The composite indicator was successfully constructed using the {results['method'
 
 
 if __name__ == "__main__":
+
     main()
