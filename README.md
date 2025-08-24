@@ -11,7 +11,12 @@ Ensure Statistical Rigor: Perform essential pre-tests like the KMO and Bartlett'
 Construct with Multiple Methods: Build indicators using advanced techniques like Principal Component Analysis (PCA), Factor Analysis, TOPSIS, and custom weighting schemes.
 
 Validate and Test Robustness: Analyze the indicator's stability and reliability through bootstrapping, leave-one-out validation, and cross-method comparisons.
+Generate Comprehensive Reports: Automatically export detailed documentation, datasets, and visualizations to Excel, CSV, or Markdown files for publication and review.h
 
-Generate Comprehensive Reports: Automatically export detailed documentation, datasets, and visualizations to Excel, CSV, or Markdown files for publication and review.
+ the link of this app 
+
+ 
+ https://indicatorbuilder.streamlit.app/
+ 
 
 
